@@ -1,5 +1,7 @@
 # depslib dependency file v1.0
-1716027690 source:d:\univer\programming\rgr_play\main.c
+1717004148 source:d:\univer\programming\rgr_play\main.c
+	<SFML/Graphics.h>
+	<SFML/Audio.h>
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
